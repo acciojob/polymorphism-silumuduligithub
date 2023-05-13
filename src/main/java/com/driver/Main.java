@@ -16,7 +16,7 @@ public class Main {
         }
         public static void main(String[] args) {
             Product p=new Product();
-
+            // object creation
             System.out.println(p.product(1,2));
 
             System.out.println(p.product(1,2,3));
